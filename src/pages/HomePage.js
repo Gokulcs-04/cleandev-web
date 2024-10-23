@@ -1,6 +1,6 @@
 import React from 'react';
 import '../css files/styles.css';
-import StylizedButton from '../components/StylizedButton'; // Ensure correct path
+import StylizedButton from '../components/StylizedButton'; 
 
 const HomePage = () => {
   
